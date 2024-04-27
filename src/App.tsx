@@ -1,9 +1,9 @@
 import "./App.css";
-
+import MainPage from "./Pages/MainPage.jsx";
 function App() {
   return (
     <>
-      <h1 className="bg-red-100">This is React app</h1>
+      <MainPage />
     </>
   );
 }
